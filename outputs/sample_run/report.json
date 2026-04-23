@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "dataset": "hotpot_mini.json",
+    "mode": "openai",
+    "num_records": 2,
+    "agents": [
+      "react",
+      "reflexion"
+    ]
+  },
+  "summary": {
+    "react": {
+      "count": 1,
+      "em": 1.0,
+      "avg_attempts": 1,
+      "avg_token_estimate": 0,
+      "avg_latency_ms": 0
+    },
+    "reflexion": {
+      "count": 1,
+      "em": 1.0,
+      "avg_attempts": 1,
+      "avg_token_estimate": 0,
+      "avg_latency_ms": 0
+    },
+    "delta_reflexion_minus_react": {
+      "em_abs": 0.0,
+      "attempts_abs": 0,
+      "tokens_abs": 0,
+      "latency_abs": 0
+    }
+  },
+  "failure_modes": {
+    "react": {
+      "none": 1
+    },
+    "reflexion": {
+      "none": 1
+    }
+  },
+  "examples": [
+    {
+      "qid": "hp1",
+      "agent_type": "react",
+      "gold_answer": "Oxford University",
+      "predicted_answer": "Oxford University",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    },
+    {
+      "qid": "hp1",
+      "agent_type": "reflexion",
+      "gold_answer": "Oxford University",
+      "predicted_answer": "Oxford University",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0
+    }
+  ],
+  "extensions": [
+    "structured_evaluator",
+    "reflection_memory",
+    "benchmark_report_json",
+    "mock_mode_for_autograding"
+  ],
+  "discussion": "Reflexion helps when the first attempt stops after the first hop or drifts to a wrong second-hop entity. The tradeoff is higher attempts, token cost, and latency. In a real report, students should explain when the reflection memory was useful, which failure modes remained, and whether evaluator quality limited gains."
+}

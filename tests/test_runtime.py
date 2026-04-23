@@ -1,32 +1,34 @@
 from src.reflexion_lab.mock_runtime import (
-    OpenRouterConfig,
+    OpenAIConfig,
     parse_json_object,
-    parse_openrouter_message,
+    parse_openai_response,
     runtime_config_from_env,
 )
 
 
-def test_build_runtime_from_env_reads_openrouter_settings(monkeypatch):
-    monkeypatch.setenv("OPENROUTER_API_KEY", "test-key")
-    monkeypatch.setenv("OPENROUTER_MODEL", "openai/gpt-oss-20b:free")
-    monkeypatch.setenv("OPENROUTER_BASE_URL", "https://openrouter.ai/api/v1")
+def test_build_runtime_from_env_reads_openai_settings(monkeypatch):
+    monkeypatch.setenv("OPENAI_API_KEY", "test-key")
+    monkeypatch.setenv("OPENAI_MODEL_NAME", "gpt-5-nano")
+    monkeypatch.setenv("OPENAI_TIMEOUT_SECONDS", "240")
+    monkeypatch.setenv("OPENAI_MAX_RETRIES", "4")
 
     config = runtime_config_from_env()
 
-    assert config == OpenRouterConfig(
+    assert config == OpenAIConfig(
         api_key="test-key",
-        model="openai/gpt-oss-20b:free",
-        base_url="https://openrouter.ai/api/v1",
+        model_name="gpt-5-nano",
+        timeout_seconds=240,
+        max_retries=4,
     )
 
 
-def test_parse_openrouter_usage_counts_tokens():
+def test_parse_openai_usage_counts_tokens():
     payload = {
         "choices": [{"message": {"content": "hello"}}],
         "usage": {"prompt_tokens": 11, "completion_tokens": 7, "total_tokens": 18},
     }
 
-    result = parse_openrouter_message(payload, latency_ms=42)
+    result = parse_openai_response(payload, latency_ms=42)
 
     assert result.content == "hello"
     assert result.token_count == 18
