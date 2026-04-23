@@ -1,0 +1,1122 @@
+[
+  {
+    "qid": "hp1",
+    "difficulty": "easy",
+    "question": "Which university did the author of The Hobbit teach at?",
+    "gold_answer": "Oxford University",
+    "context": [
+      { "title": "J. R. R. Tolkien", "text": "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University." },
+      { "title": "Oxford University", "text": "Oxford University is a collegiate research university in Oxford, England." }
+    ]
+  },
+  {
+    "qid": "hp2",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Ada Lovelace was born?",
+    "gold_answer": "River Thames",
+    "context": [
+      { "title": "Ada Lovelace", "text": "Ada Lovelace was born in London, England." },
+      { "title": "London", "text": "London is crossed by the River Thames." }
+    ]
+  },
+  {
+    "qid": "hp3",
+    "difficulty": "easy",
+    "question": "What instrument did the composer of The Four Seasons mainly play?",
+    "gold_answer": "violin",
+    "context": [
+      { "title": "The Four Seasons", "text": "The Four Seasons is a group of violin concertos by Antonio Vivaldi." },
+      { "title": "Antonio Vivaldi", "text": "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist." }
+    ]
+  },
+  {
+    "qid": "hp4",
+    "difficulty": "medium",
+    "question": "Which ocean borders the country whose capital is Lima?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      { "title": "Lima", "text": "Lima is the capital city of Peru." },
+      { "title": "Peru", "text": "Peru borders the Pacific Ocean." }
+    ]
+  },
+  {
+    "qid": "hp5",
+    "difficulty": "easy",
+    "question": "What field did the scientist who proposed the three laws of motion study in addition to physics?",
+    "gold_answer": "mathematics",
+    "context": [
+      { "title": "Isaac Newton", "text": "Isaac Newton formulated the laws of motion and was a physicist and mathematician." },
+      { "title": "Laws of motion", "text": "The three laws of motion are attributed to Isaac Newton." }
+    ]
+  },
+  {
+    "qid": "hp6",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Petra is located?",
+    "gold_answer": "Dead Sea",
+    "context": [
+      { "title": "Petra", "text": "Petra is a historical city in Jordan." },
+      { "title": "Jordan", "text": "Jordan borders the Dead Sea to the west." }
+    ]
+  },
+  {
+    "qid": "hp7",
+    "difficulty": "medium",
+    "question": "Which language family does the primary language of Brazil belong to?",
+    "gold_answer": "Romance",
+    "context": [
+      { "title": "Brazil", "text": "The official language of Brazil is Portuguese." },
+      { "title": "Portuguese language", "text": "Portuguese is a Romance language." }
+    ]
+  },
+  {
+    "qid": "hp8",
+    "difficulty": "hard",
+    "question": "Which mountain range contains the highest mountain in the country whose capital is Kathmandu?",
+    "gold_answer": "Himalayas",
+    "context": [
+      { "title": "Kathmandu", "text": "Kathmandu is the capital city of Nepal." },
+      { "title": "Nepal", "text": "Mount Everest, the highest mountain in Nepal, is part of the Himalayas." }
+    ]
+  },
+  {
+    "qid": "hp9",
+    "difficulty": "medium",
+    "question": "Which element was discovered by the scientist born in Warsaw who won two Nobel Prizes?",
+    "gold_answer": "Radium",
+    "context": [
+      { "title": "Marie Curie", "text": "Marie Curie was born in Warsaw and discovered the elements polonium and radium." },
+      { "title": "Warsaw", "text": "Warsaw is the capital city of Poland and the birthplace of Marie Curie." }
+    ]
+  },
+  {
+    "qid": "hp10",
+    "difficulty": "easy",
+    "question": "What river is located in the city that houses the Eiffel Tower?",
+    "gold_answer": "Seine",
+    "context": [
+      { "title": "Eiffel Tower", "text": "The Eiffel Tower is located in Paris, France." },
+      { "title": "Paris", "text": "The city of Paris is situated on the River Seine." }
+    ]
+  },
+  {
+    "qid": "hp11",
+    "difficulty": "medium",
+    "question": "What country is home to the mountain range where the Incas built Machu Picchu?",
+    "gold_answer": "Peru",
+    "context": [
+      { "title": "Machu Picchu", "text": "Machu Picchu is an Incan citadel set high in the Andes Mountains." },
+      { "title": "Andes", "text": "The Andes mountain range runs through Peru." }
+    ]
+  },
+  {
+    "qid": "hp12",
+    "difficulty": "hard",
+    "question": "What type of celestial body is the object orbited by the Galilean moons?",
+    "gold_answer": "Gas giant",
+    "context": [
+      { "title": "Galilean moons", "text": "The Galilean moons are the four largest moons of the planet Jupiter." },
+      { "title": "Jupiter", "text": "Jupiter is the largest planet in the Solar System and is classified as a gas giant." }
+    ]
+  },
+  {
+    "qid": "hp13",
+    "difficulty": "easy",
+    "question": "What city is the birthplace of the playwright who wrote 'Romeo and Juliet'?",
+    "gold_answer": "Stratford-upon-Avon",
+    "context": [
+      { "title": "Romeo and Juliet", "text": "Romeo and Juliet is a tragedy written by William Shakespeare." },
+      { "title": "William Shakespeare", "text": "William Shakespeare was born in Stratford-upon-Avon." }
+    ]
+  },
+  {
+    "qid": "hp14",
+    "difficulty": "medium",
+    "question": "What ocean is located to the east of the country where the Great Barrier Reef is found?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      { "title": "Great Barrier Reef", "text": "The Great Barrier Reef is the world's largest coral reef system, located off the coast of Australia." },
+      { "title": "Australia", "text": "Australia is bordered by the Pacific Ocean to its east." }
+    ]
+  },
+  {
+    "qid": "hp15",
+    "difficulty": "hard",
+    "question": "Which musical period did the composer of the 'Moonlight Sonata' help bridge into Romanticism?",
+    "gold_answer": "Classical",
+    "context": [
+      { "title": "Moonlight Sonata", "text": "The Moonlight Sonata was composed by Ludwig van Beethoven." },
+      { "title": "Ludwig van Beethoven", "text": "Beethoven was a crucial figure in the transition between the Classical and Romantic eras in music." }
+    ]
+  },
+  {
+    "qid": "hp16",
+    "difficulty": "medium",
+    "question": "What is the capital of the country that contains the majority of the Amazon Rainforest?",
+    "gold_answer": "Brasília",
+    "context": [
+      { "title": "Amazon Rainforest", "text": "The majority of the Amazon Rainforest is contained within the borders of Brazil." },
+      { "title": "Brazil", "text": "Brasília is the capital of Brazil." }
+    ]
+  },
+  {
+    "qid": "hp17",
+    "difficulty": "easy",
+    "question": "In which city is the museum that houses the Mona Lisa located?",
+    "gold_answer": "Paris",
+    "context": [
+      { "title": "Mona Lisa", "text": "The Mona Lisa is a portrait painting by Leonardo da Vinci, permanently displayed at the Louvre Museum." },
+      { "title": "Louvre Museum", "text": "The Louvre is the world's most-visited museum and is located in Paris." }
+    ]
+  },
+  {
+    "qid": "hp18",
+    "difficulty": "medium",
+    "question": "What language was the primary tongue of the empire that built the Colosseum?",
+    "gold_answer": "Latin",
+    "context": [
+      { "title": "Colosseum", "text": "The Colosseum is an oval amphitheatre in the centre of the city of Rome, built by the Roman Empire." },
+      { "title": "Roman Empire", "text": "The official and most widely spoken language of the Roman Empire was Latin." }
+    ]
+  },
+  {
+    "qid": "hp19",
+    "difficulty": "hard",
+    "question": "Which desert is located in the country where the Giza Pyramids were built?",
+    "gold_answer": "Sahara",
+    "context": [
+      { "title": "Giza Pyramids", "text": "The Pyramids of Giza are located on the outskirts of Cairo, Egypt." },
+      { "title": "Egypt", "text": "A significant portion of Egypt is covered by the Sahara Desert." }
+    ]
+  },
+  {
+    "qid": "hp20",
+    "difficulty": "medium",
+    "question": "What kind of animal is the main character in the book written by George Orwell that satirizes the Russian Revolution?",
+    "gold_answer": "Pig",
+    "context": [
+      { "title": "George Orwell", "text": "George Orwell wrote the novella Animal Farm as an allegory for the Russian Revolution." },
+      { "title": "Animal Farm", "text": "In Animal Farm, the pigs Old Major, Napoleon, and Snowball lead the animal rebellion." }
+    ]
+  },
+  {
+    "qid": "hp21",
+    "difficulty": "medium",
+    "question": "What is the largest city in the country where the Statue of Liberty is located?",
+    "gold_answer": "New York City",
+    "context": [
+      { "title": "Statue of Liberty", "text": "The Statue of Liberty is located in the United States." },
+      { "title": "United States", "text": "New York City is the largest city in the United States." }
+    ]
+  },
+  {
+    "qid": "hp22",
+    "difficulty": "easy",
+    "question": "Which canal connects the Atlantic Ocean to the ocean bordering Peru?",
+    "gold_answer": "Panama Canal",
+    "context": [
+      { "title": "Peru", "text": "Peru borders the Pacific Ocean." },
+      { "title": "Panama Canal", "text": "The Panama Canal connects the Atlantic and Pacific Oceans." }
+    ]
+  },
+  {
+    "qid": "hp23",
+    "difficulty": "medium",
+    "question": "What is the capital of the country where the Parthenon is located?",
+    "gold_answer": "Athens",
+    "context": [
+      { "title": "Parthenon", "text": "The Parthenon is a former temple on the Athenian Acropolis, Greece." },
+      { "title": "Greece", "text": "Athens is the capital of Greece." }
+    ]
+  },
+  {
+    "qid": "hp24",
+    "difficulty": "hard",
+    "question": "In which country is the mountain range located that contains Mount Kilimanjaro?",
+    "gold_answer": "Tanzania",
+    "context": [
+      { "title": "Mount Kilimanjaro", "text": "Mount Kilimanjaro is a dormant volcano in the Kilimanjaro Region." },
+      { "title": "Kilimanjaro Region", "text": "The Kilimanjaro Region is located in Tanzania." }
+    ]
+  },
+  {
+    "qid": "hp25",
+    "difficulty": "easy",
+    "question": "What is the largest island in the country that has Tokyo as its capital?",
+    "gold_answer": "Honshu",
+    "context": [
+      { "title": "Tokyo", "text": "Tokyo is the capital of Japan." },
+      { "title": "Japan", "text": "Honshu is the largest and most populous island of Japan." }
+    ]
+  },
+  {
+    "qid": "hp26",
+    "difficulty": "medium",
+    "question": "Which river is the longest in the country that contains the city of Cairo?",
+    "gold_answer": "Nile",
+    "context": [
+      { "title": "Cairo", "text": "Cairo is the capital of Egypt." },
+      { "title": "Egypt", "text": "The Nile is the longest river in Egypt and the world." }
+    ]
+  },
+  {
+    "qid": "hp27",
+    "difficulty": "hard",
+    "question": "Which body of water borders the western side of the country where the city of Mumbai is located?",
+    "gold_answer": "Arabian Sea",
+    "context": [
+      { "title": "Mumbai", "text": "Mumbai is a major city in India." },
+      { "title": "India", "text": "India borders the Arabian Sea to the west." }
+    ]
+  },
+  {
+    "qid": "hp28",
+    "difficulty": "medium",
+    "question": "What is the official currency of the country where the Brandenburg Gate is located?",
+    "gold_answer": "Euro",
+    "context": [
+      { "title": "Brandenburg Gate", "text": "The Brandenburg Gate is an 18th-century neoclassical monument in Berlin, Germany." },
+      { "title": "Germany", "text": "The official currency of Germany is the Euro." }
+    ]
+  },
+  {
+    "qid": "hp29",
+    "difficulty": "easy",
+    "question": "Which country is the home of the Great Wall?",
+    "gold_answer": "China",
+    "context": [
+      { "title": "Great Wall", "text": "The Great Wall is a series of fortifications in Northern China." },
+      { "title": "China", "text": "Beijing is the capital of China." }
+    ]
+  },
+  {
+    "qid": "hp30",
+    "difficulty": "medium",
+    "question": "What gas do plants absorb that is also produced by the combustion of fossil fuels?",
+    "gold_answer": "Carbon dioxide",
+    "context": [
+      { "title": "Photosynthesis", "text": "Plants absorb carbon dioxide during photosynthesis." },
+      { "title": "Fossil fuels", "text": "The burning of fossil fuels releases carbon dioxide into the atmosphere." }
+    ]
+  },
+  {
+    "qid": "hp31",
+    "difficulty": "hard",
+    "question": "What type of energy is harnessed by the device invented by Alessandro Volta?",
+    "gold_answer": "Chemical energy",
+    "context": [
+      { "title": "Alessandro Volta", "text": "Alessandro Volta invented the electric battery." },
+      { "title": "Battery", "text": "An electric battery converts chemical energy into electrical energy." }
+    ]
+  },
+  {
+    "qid": "hp32",
+    "difficulty": "medium",
+    "question": "Which organ in the human body is responsible for pumping the fluid that carries oxygen?",
+    "gold_answer": "Heart",
+    "context": [
+      { "title": "Oxygen transport", "text": "Oxygen is carried throughout the body by blood." },
+      { "title": "Blood circulation", "text": "The heart is the organ responsible for pumping blood." }
+    ]
+  },
+  {
+    "qid": "hp33",
+    "difficulty": "easy",
+    "question": "What is the chemical symbol for the element that makes up the majority of the Sun?",
+    "gold_answer": "H",
+    "context": [
+      { "title": "Sun", "text": "The Sun is primarily composed of hydrogen and helium." },
+      { "title": "Hydrogen", "text": "Hydrogen has the chemical symbol H." }
+    ]
+  },
+  {
+    "qid": "hp34",
+    "difficulty": "medium",
+    "question": "What force keeps the Moon in orbit around the planet where humans live?",
+    "gold_answer": "Gravity",
+    "context": [
+      { "title": "Moon orbit", "text": "The Moon orbits the Earth." },
+      { "title": "Earth", "text": "Gravity is the force that keeps satellites in orbit around Earth." }
+    ]
+  },
+  {
+    "qid": "hp35",
+    "difficulty": "hard",
+    "question": "Which scientist developed the theory of relativity that involves the speed of light?",
+    "gold_answer": "Albert Einstein",
+    "context": [
+      { "title": "Relativity", "text": "The theory of relativity was proposed by Albert Einstein." },
+      { "title": "Speed of light", "text": "The equation E=mc^2 relates energy and mass using the speed of light." }
+    ]
+  },
+  {
+    "qid": "hp36",
+    "difficulty": "medium",
+    "question": "What is the name of the process by which liquid water turns into the gas found in clouds?",
+    "gold_answer": "Evaporation",
+    "context": [
+      { "title": "Clouds", "text": "Clouds are formed from water vapor." },
+      { "title": "Water cycle", "text": "Evaporation is the process where liquid water becomes water vapor." }
+    ]
+  },
+  {
+    "qid": "hp37",
+    "difficulty": "easy",
+    "question": "Which part of the cell contains the genetic material?",
+    "gold_answer": "Nucleus",
+    "context": [
+      { "title": "Genetic material", "text": "DNA is the genetic material of living organisms." },
+      { "title": "Cell structure", "text": "DNA is primarily stored in the nucleus of a cell." }
+    ]
+  },
+  {
+    "qid": "hp38",
+    "difficulty": "hard",
+    "question": "Which element is the primary component of the mineral diamond?",
+    "gold_answer": "Carbon",
+    "context": [
+      { "title": "Diamond", "text": "A diamond is a solid form of the element carbon." },
+      { "title": "Carbon", "text": "Carbon is the chemical element with symbol C and atomic number 6." }
+    ]
+  },
+  {
+    "qid": "hp39",
+    "difficulty": "medium",
+    "question": "Who was the leader of the country that fought the United Kingdom in the American Revolutionary War?",
+    "gold_answer": "George Washington",
+    "context": [
+      { "title": "American Revolutionary War", "text": "The war was fought between Great Britain and the thirteen colonies." },
+      { "title": "Thirteen Colonies", "text": "George Washington led the Continental Army against the British." }
+    ]
+  },
+  {
+    "qid": "hp40",
+    "difficulty": "hard",
+    "question": "Which city was the target of the first atomic bomb dropped in 1945?",
+    "gold_answer": "Hiroshima",
+    "context": [
+      { "title": "Atomic bomb", "text": "The first atomic bomb used in warfare was dropped by the United States." },
+      { "title": "1945", "text": "In August 1945, the city of Hiroshima was bombed." }
+    ]
+  },
+  {
+    "qid": "hp41",
+    "difficulty": "medium",
+    "question": "What was the name of the ship that transported the Pilgrims to North America in 1620?",
+    "gold_answer": "Mayflower",
+    "context": [
+      { "title": "Pilgrims", "text": "The Pilgrims were English settlers who came to North America." },
+      { "title": "1620", "text": "The Mayflower arrived at Plymouth in 1620." }
+    ]
+  },
+  {
+    "qid": "hp42",
+    "difficulty": "easy",
+    "question": "Who was the first female Prime Minister of the United Kingdom?",
+    "gold_answer": "Margaret Thatcher",
+    "context": [
+      { "title": "Prime Minister", "text": "The Prime Minister is the head of government in the UK." },
+      { "title": "Margaret Thatcher", "text": "Margaret Thatcher served as UK Prime Minister from 1979 to 1990." }
+    ]
+  },
+  {
+    "qid": "hp43",
+    "difficulty": "hard",
+    "question": "Which empire was ruled by Julius Caesar?",
+    "gold_answer": "Roman Empire",
+    "context": [
+      { "title": "Julius Caesar", "text": "Julius Caesar was a Roman general and statesman." },
+      { "title": "Ancient Rome", "text": "Caesar played a critical role in the transition of the Roman Republic to the Roman Empire." }
+    ]
+  },
+  {
+    "qid": "hp44",
+    "difficulty": "medium",
+    "question": "Which document was signed in 1215 to limit the power of the English king?",
+    "gold_answer": "Magna Carta",
+    "context": [
+      { "title": "1215", "text": "The Magna Carta was issued in June 1215." },
+      { "title": "English king", "text": "King John signed the Magna Carta to appease rebel barons." }
+    ]
+  },
+  {
+    "qid": "hp45",
+    "difficulty": "hard",
+    "question": "What was the name of the wall that divided Berlin from 1961 to 1989?",
+    "gold_answer": "Berlin Wall",
+    "context": [
+      { "title": "Berlin", "text": "Berlin was divided into East and West during the Cold War." },
+      { "title": "Cold War", "text": "The Berlin Wall was a physical barrier that separated the city." }
+    ]
+  },
+  {
+    "qid": "hp46",
+    "difficulty": "easy",
+    "question": "Which country was led by Napoleon Bonaparte?",
+    "gold_answer": "France",
+    "context": [
+      { "title": "Napoleon Bonaparte", "text": "Napoleon was a military leader and Emperor of the French." },
+      { "title": "France", "text": "France became a dominant power in Europe under Napoleon." }
+    ]
+  },
+  {
+    "qid": "hp47",
+    "difficulty": "medium",
+    "question": "Who was the civil rights leader who gave the 'I Have a Dream' speech?",
+    "gold_answer": "Martin Luther King Jr.",
+    "context": [
+      { "title": "I Have a Dream", "text": "The 'I Have a Dream' speech was delivered during the March on Washington." },
+      { "title": "March on Washington", "text": "Martin Luther King Jr. was the primary speaker at the event." }
+    ]
+  },
+  {
+    "qid": "hp48",
+    "difficulty": "hard",
+    "question": "Which civilization built the pyramids in Central America like Chichen Itza?",
+    "gold_answer": "Maya",
+    "context": [
+      { "title": "Chichen Itza", "text": "Chichen Itza was a large pre-Columbian city." },
+      { "title": "Pre-Columbian city", "text": "The city of Chichen Itza was built by the Maya people." }
+    ]
+  },
+  {
+    "qid": "hp49",
+    "difficulty": "easy",
+    "question": "Which artist painted the ceiling of the Sistine Chapel?",
+    "gold_answer": "Michelangelo",
+    "context": [
+      { "title": "Sistine Chapel", "text": "The Sistine Chapel is located in Vatican City." },
+      { "title": "Ceiling painting", "text": "The ceiling of the Sistine Chapel was painted by Michelangelo." }
+    ]
+  },
+  {
+    "qid": "hp50",
+    "difficulty": "medium",
+    "question": "What is the title of the novel featuring the character Sherlock Holmes?",
+    "gold_answer": "A Study in Scarlet",
+    "context": [
+      { "title": "Sherlock Holmes", "text": "Sherlock Holmes is a fictional detective created by Arthur Conan Doyle." },
+      { "title": "Arthur Conan Doyle", "text": "Conan Doyle's first Holmes story was 'A Study in Scarlet'." }
+    ]
+  },
+  {
+    "qid": "hp51",
+    "difficulty": "hard",
+    "question": "Which Dutch painter is famous for 'The Starry Night'?",
+    "gold_answer": "Vincent van Gogh",
+    "context": [
+      { "title": "The Starry Night", "text": "The Starry Night is an oil-on-canvas painting." },
+      { "title": "Vincent van Gogh", "text": "Van Gogh painted 'The Starry Night' while at an asylum in Saint-Rémy-de-Provence." }
+    ]
+  },
+  {
+    "qid": "hp52",
+    "difficulty": "medium",
+    "question": "In which city is the Globe Theatre, associated with William Shakespeare, located?",
+    "gold_answer": "London",
+    "context": [
+      { "title": "Globe Theatre", "text": "The Globe Theatre was a theatre in London associated with Shakespeare." },
+      { "title": "William Shakespeare", "text": "Shakespeare's plays were performed at the Globe in London." }
+    ]
+  },
+  {
+    "qid": "hp53",
+    "difficulty": "easy",
+    "question": "Who wrote the 'Harry Potter' series?",
+    "gold_answer": "J.K. Rowling",
+    "context": [
+      { "title": "Harry Potter", "text": "The Harry Potter series consists of seven fantasy novels." },
+      { "title": "J.K. Rowling", "text": "J.K. Rowling is the British author of the Harry Potter books." }
+    ]
+  },
+  {
+    "qid": "hp54",
+    "difficulty": "hard",
+    "question": "What is the name of the opera composed by Bizet set in Seville?",
+    "gold_answer": "Carmen",
+    "context": [
+      { "title": "Georges Bizet", "text": "Bizet was a French composer of the Romantic era." },
+      { "title": "Carmen", "text": "The opera Carmen is set in Seville, Spain." }
+    ]
+  },
+  {
+    "qid": "hp55",
+    "difficulty": "medium",
+    "question": "Which instrument is the 'Piano Man' singer known for playing?",
+    "gold_answer": "piano",
+    "context": [
+      { "title": "Piano Man", "text": "Piano Man is a hit song by Billy Joel." },
+      { "title": "Billy Joel", "text": "Billy Joel is an American singer-songwriter and pianist." }
+    ]
+  },
+  {
+    "qid": "hp56",
+    "difficulty": "easy",
+    "question": "Who painted 'The Last Supper'?",
+    "gold_answer": "Leonardo da Vinci",
+    "context": [
+      { "title": "The Last Supper", "text": "The Last Supper is a late 15th-century mural painting." },
+      { "title": "Leonardo da Vinci", "text": "The mural was created by Leonardo da Vinci." }
+    ]
+  },
+  {
+    "qid": "hp57",
+    "difficulty": "hard",
+    "question": "What is the primary language used in the epic poem 'The Iliad'?",
+    "gold_answer": "Ancient Greek",
+    "context": [
+      { "title": "The Iliad", "text": "The Iliad is an ancient Greek epic poem attributed to Homer." },
+      { "title": "Homer", "text": "Homer wrote in a dialect of Ancient Greek." }
+    ]
+  },
+  {
+    "qid": "hp58",
+    "difficulty": "medium",
+    "question": "Which sculptor created the statue of David?",
+    "gold_answer": "Michelangelo",
+    "context": [
+      { "title": "David statue", "text": "The David is a masterpiece of Renaissance sculpture." },
+      { "title": "Renaissance sculpture", "text": "The statue of David was created by Michelangelo." }
+    ]
+  },
+  {
+    "qid": "hp59",
+    "difficulty": "medium",
+    "question": "What is the largest city in the country where the Statue of Liberty is located?",
+    "gold_answer": "New York City",
+    "context": [
+      { "title": "Statue of Liberty", "text": "The Statue of Liberty is located in the United States." },
+      { "title": "United States", "text": "New York City is the largest city in the United States." }
+    ]
+  },
+  {
+    "qid": "hp60",
+    "difficulty": "easy",
+    "question": "Which canal connects the Atlantic Ocean to the ocean bordering Peru?",
+    "gold_answer": "Panama Canal",
+    "context": [
+      { "title": "Peru", "text": "Peru borders the Pacific Ocean." },
+      { "title": "Panama Canal", "text": "The Panama Canal connects the Atlantic and Pacific Oceans." }
+    ]
+  },
+  {
+    "qid": "hp61",
+    "difficulty": "medium",
+    "question": "What is the capital of the country where the Parthenon is located?",
+    "gold_answer": "Athens",
+    "context": [
+      { "title": "Parthenon", "text": "The Parthenon is a former temple on the Athenian Acropolis, Greece." },
+      { "title": "Greece", "text": "Athens is the capital of Greece." }
+    ]
+  },
+  {
+    "qid": "hp62",
+    "difficulty": "hard",
+    "question": "In which country is the mountain range located that contains Mount Kilimanjaro?",
+    "gold_answer": "Tanzania",
+    "context": [
+      { "title": "Mount Kilimanjaro", "text": "Mount Kilimanjaro is a dormant volcano in the Kilimanjaro Region." },
+      { "title": "Kilimanjaro Region", "text": "The Kilimanjaro Region is located in Tanzania." }
+    ]
+  },
+  {
+    "qid": "hp63",
+    "difficulty": "easy",
+    "question": "What is the largest island in the country that has Tokyo as its capital?",
+    "gold_answer": "Honshu",
+    "context": [
+      { "title": "Tokyo", "text": "Tokyo is the capital of Japan." },
+      { "title": "Japan", "text": "Honshu is the largest and most populous island of Japan." }
+    ]
+  },
+  {
+    "qid": "hp64",
+    "difficulty": "medium",
+    "question": "Which river is the longest in the country that contains the city of Cairo?",
+    "gold_answer": "Nile",
+    "context": [
+      { "title": "Cairo", "text": "Cairo is the capital of Egypt." },
+      { "title": "Egypt", "text": "The Nile is the longest river in Egypt and the world." }
+    ]
+  },
+  {
+    "qid": "hp65",
+    "difficulty": "hard",
+    "question": "Which body of water borders the western side of the country where the city of Mumbai is located?",
+    "gold_answer": "Arabian Sea",
+    "context": [
+      { "title": "Mumbai", "text": "Mumbai is a major city in India." },
+      { "title": "India", "text": "India borders the Arabian Sea to the west." }
+    ]
+  },
+  {
+    "qid": "hp66",
+    "difficulty": "medium",
+    "question": "What is the official currency of the country where the Brandenburg Gate is located?",
+    "gold_answer": "Euro",
+    "context": [
+      { "title": "Brandenburg Gate", "text": "The Brandenburg Gate is an 18th-century neoclassical monument in Berlin, Germany." },
+      { "title": "Germany", "text": "The official currency of Germany is the Euro." }
+    ]
+  },
+  {
+    "qid": "hp67",
+    "difficulty": "easy",
+    "question": "Which country is the home of the Great Wall?",
+    "gold_answer": "China",
+    "context": [
+      { "title": "Great Wall", "text": "The Great Wall is a series of fortifications in Northern China." },
+      { "title": "China", "text": "Beijing is the capital of China." }
+    ]
+  },
+  {
+    "qid": "hp68",
+    "difficulty": "medium",
+    "question": "What gas do plants absorb that is also produced by the combustion of fossil fuels?",
+    "gold_answer": "Carbon dioxide",
+    "context": [
+      { "title": "Photosynthesis", "text": "Plants absorb carbon dioxide during photosynthesis." },
+      { "title": "Fossil fuels", "text": "The burning of fossil fuels releases carbon dioxide into the atmosphere." }
+    ]
+  },
+  {
+    "qid": "hp69",
+    "difficulty": "hard",
+    "question": "What type of energy is harnessed by the device invented by Alessandro Volta?",
+    "gold_answer": "Chemical energy",
+    "context": [
+      { "title": "Alessandro Volta", "text": "Alessandro Volta invented the electric battery." },
+      { "title": "Battery", "text": "An electric battery converts chemical energy into electrical energy." }
+    ]
+  },
+  {
+    "qid": "hp70",
+    "difficulty": "medium",
+    "question": "Which organ in the human body is responsible for pumping the fluid that carries oxygen?",
+    "gold_answer": "Heart",
+    "context": [
+      { "title": "Oxygen transport", "text": "Oxygen is carried throughout the body by blood." },
+      { "title": "Blood circulation", "text": "The heart is the organ responsible for pumping blood." }
+    ]
+  },
+  {
+    "qid": "hp71",
+    "difficulty": "easy",
+    "question": "What is the chemical symbol for the element that makes up the majority of the Sun?",
+    "gold_answer": "H",
+    "context": [
+      { "title": "Sun", "text": "The Sun is primarily composed of hydrogen and helium." },
+      { "title": "Hydrogen", "text": "Hydrogen has the chemical symbol H." }
+    ]
+  },
+  {
+    "qid": "hp72",
+    "difficulty": "medium",
+    "question": "What force keeps the Moon in orbit around the planet where humans live?",
+    "gold_answer": "Gravity",
+    "context": [
+      { "title": "Moon orbit", "text": "The Moon orbits the Earth." },
+      { "title": "Earth", "text": "Gravity is the force that keeps satellites in orbit around Earth." }
+    ]
+  },
+  {
+    "qid": "hp73",
+    "difficulty": "hard",
+    "question": "Which scientist developed the theory of relativity that involves the speed of light?",
+    "gold_answer": "Albert Einstein",
+    "context": [
+      { "title": "Relativity", "text": "The theory of relativity was proposed by Albert Einstein." },
+      { "title": "Speed of light", "text": "The equation E=mc^2 relates energy and mass using the speed of light." }
+    ]
+  },
+  {
+    "qid": "hp74",
+    "difficulty": "medium",
+    "question": "What is the name of the process by which liquid water turns into the gas found in clouds?",
+    "gold_answer": "Evaporation",
+    "context": [
+      { "title": "Clouds", "text": "Clouds are formed from water vapor." },
+      { "title": "Water cycle", "text": "Evaporation is the process where liquid water becomes water vapor." }
+    ]
+  },
+  {
+    "qid": "hp75",
+    "difficulty": "easy",
+    "question": "Which part of the cell contains the genetic material?",
+    "gold_answer": "Nucleus",
+    "context": [
+      { "title": "Genetic material", "text": "DNA is the genetic material of living organisms." },
+      { "title": "Cell structure", "text": "DNA is primarily stored in the nucleus of a cell." }
+    ]
+  },
+  {
+    "qid": "hp76",
+    "difficulty": "hard",
+    "question": "Which element is the primary component of the mineral diamond?",
+    "gold_answer": "Carbon",
+    "context": [
+      { "title": "Diamond", "text": "A diamond is a solid form of the element carbon." },
+      { "title": "Carbon", "text": "Carbon is the chemical element with symbol C and atomic number 6." }
+    ]
+  },
+  {
+    "qid": "hp77",
+    "difficulty": "medium",
+    "question": "Who was the leader of the country that fought the United Kingdom in the American Revolutionary War?",
+    "gold_answer": "George Washington",
+    "context": [
+      { "title": "American Revolutionary War", "text": "The war was fought between Great Britain and the thirteen colonies." },
+      { "title": "Thirteen Colonies", "text": "George Washington led the Continental Army against the British." }
+    ]
+  },
+  {
+    "qid": "hp78",
+    "difficulty": "hard",
+    "question": "Which city was the target of the first atomic bomb dropped in 1945?",
+    "gold_answer": "Hiroshima",
+    "context": [
+      { "title": "Atomic bomb", "text": "The first atomic bomb used in warfare was dropped by the United States." },
+      { "title": "1945", "text": "In August 1945, the city of Hiroshima was bombed." }
+    ]
+  },
+  {
+    "qid": "hp79",
+    "difficulty": "medium",
+    "question": "What was the name of the ship that transported the Pilgrims to North America in 1620?",
+    "gold_answer": "Mayflower",
+    "context": [
+      { "title": "Pilgrims", "text": "The Pilgrims were English settlers who came to North America." },
+      { "title": "1620", "text": "The Mayflower arrived at Plymouth in 1620." }
+    ]
+  },
+  {
+    "qid": "hp80",
+    "difficulty": "easy",
+    "question": "Who was the first female Prime Minister of the United Kingdom?",
+    "gold_answer": "Margaret Thatcher",
+    "context": [
+      { "title": "Prime Minister", "text": "The Prime Minister is the head of government in the UK." },
+      { "title": "Margaret Thatcher", "text": "Margaret Thatcher served as UK Prime Minister from 1979 to 1990." }
+    ]
+  },
+  {
+    "qid": "hp81",
+    "difficulty": "hard",
+    "question": "Which Greek god is the father of the hero who completed twelve labors?",
+    "gold_answer": "Zeus",
+    "context": [
+      {
+        "title": "Heracles",
+        "text": "Heracles is a divine hero in Greek mythology, famous for his twelve labors."
+      },
+      {
+        "title": "Parentage of Heracles",
+        "text": "In Greek myth, Heracles is the son of Zeus and the mortal Alcmene."
+      }
+    ]
+  },
+  {
+    "qid": "hp82",
+    "difficulty": "hard",
+    "question": "What is the official language of the country where the world's highest navigable lake is primarily located?",
+    "gold_answer": "Spanish",
+    "context": [
+      {
+        "title": "Lake Titicaca",
+        "text": "Lake Titicaca is often called the highest navigable lake in the world and is located on the border of Bolivia and Peru."
+      },
+      {
+        "title": "Peru",
+        "text": "Peru is a South American country where Spanish is the primary official language."
+      }
+    ]
+  },
+  {
+    "qid": "hp83",
+    "difficulty": "hard",
+    "question": "The director of the 1994 film 'Pulp Fiction' won the Palme d'Or at a festival held in which country?",
+    "gold_answer": "France",
+    "context": [
+      {
+        "title": "Pulp Fiction",
+        "text": "Pulp Fiction was directed by Quentin Tarantino and won the Palme d'Or at the Cannes Film Festival."
+      },
+      {
+        "title": "Cannes Film Festival",
+        "text": "The Cannes Film Festival is an annual film festival held in Cannes, France."
+      }
+    ]
+  },
+  {
+    "qid": "hp84",
+    "difficulty": "hard",
+    "question": "What is the atomic number of the element named after the scientist who discovered the nucleus?",
+    "gold_answer": "104",
+    "context": [
+      {
+        "title": "Ernest Rutherford",
+        "text": "Ernest Rutherford is known as the father of nuclear physics for his discovery of the atomic nucleus."
+      },
+      {
+        "title": "Rutherfordium",
+        "text": "Rutherfordium is a chemical element with symbol Rf and atomic number 104, named in honor of Ernest Rutherford."
+      }
+    ]
+  },
+  {
+    "qid": "hp85",
+    "difficulty": "hard",
+    "question": "Which mountain range houses the peak that was first summited by Tenzing Norgay and Edmund Hillary?",
+    "gold_answer": "Himalayas",
+    "context": [
+      {
+        "title": "1953 Everest Expedition",
+        "text": "In 1953, Tenzing Norgay and Edmund Hillary became the first individuals to reach the summit of Mount Everest."
+      },
+      {
+        "title": "Mount Everest",
+        "text": "Mount Everest is Earth's highest mountain above sea level, located in the Himalayas."
+      }
+    ]
+  },
+  {
+    "qid": "hp86",
+    "difficulty": "hard",
+    "question": "What currency is used in the country where the philosopher who wrote 'Thus Spoke Zarathustra' was born?",
+    "gold_answer": "Euro",
+    "context": [
+      {
+        "title": "Friedrich Nietzsche",
+        "text": "Friedrich Nietzsche, the author of 'Thus Spoke Zarathustra', was born in the Kingdom of Prussia, modern-day Germany."
+      },
+      {
+        "title": "Germany",
+        "text": "Germany is a member of the European Union and uses the Euro as its official currency."
+      }
+    ]
+  },
+  {
+    "qid": "hp87",
+    "difficulty": "hard",
+    "question": "Which ocean borders the island nation where the dodo bird was endemic?",
+    "gold_answer": "Indian Ocean",
+    "context": [
+      {
+        "title": "Dodo",
+        "text": "The dodo was a flightless bird that was endemic to the island of Mauritius."
+      },
+      {
+        "title": "Mauritius",
+        "text": "Mauritius is an island nation located in the Indian Ocean off the southeast coast of Africa."
+      }
+    ]
+  },
+  {
+    "qid": "hp88",
+    "difficulty": "hard",
+    "question": "What is the capital of the country that houses the headquarters of the World Health Organization?",
+    "gold_answer": "Bern",
+    "context": [
+      {
+        "title": "World Health Organization",
+        "text": "The World Health Organization (WHO) is a specialized agency of the United Nations headquartered in Geneva, Switzerland."
+      },
+      {
+        "title": "Switzerland",
+        "text": "Bern is the de facto capital of Switzerland, known as the 'federal city'."
+      }
+    ]
+  },
+  {
+    "qid": "hp89",
+    "difficulty": "hard",
+    "question": "What is the name of the ship that Charles Darwin traveled on to reach the Galapagos Islands?",
+    "gold_answer": "HMS Beagle",
+    "context": [
+      {
+        "title": "Charles Darwin",
+        "text": "Charles Darwin formulated his theory of evolution after visiting the Galapagos Islands during his voyage on the HMS Beagle."
+      },
+      {
+        "title": "HMS Beagle",
+        "text": "The HMS Beagle was a Cherokee-class brig-sloop of the Royal Navy."
+      }
+    ]
+  },
+  {
+    "qid": "hp90",
+    "difficulty": "hard",
+    "question": "Which layer of the atmosphere contains the ozone layer that protects Earth from UV radiation?",
+    "gold_answer": "Stratosphere",
+    "context": [
+      {
+        "title": "Ozone Layer",
+        "text": "The ozone layer is a region of Earth's stratosphere that absorbs most of the Sun's ultraviolet radiation."
+      },
+      {
+        "title": "Atmosphere of Earth",
+        "text": "The stratosphere is the second major layer of Earth's atmosphere, just above the troposphere."
+      }
+    ]
+  },
+  {
+    "qid": "hp91",
+    "difficulty": "hard",
+    "question": "The inventor of the World Wide Web was born in which city?",
+    "gold_answer": "London",
+    "context": [
+      {
+        "title": "Tim Berners-Lee",
+        "text": "Tim Berners-Lee is an English computer scientist best known as the inventor of the World Wide Web."
+      },
+      {
+        "title": "Tim Berners-Lee Early Life",
+        "text": "Tim Berners-Lee was born in London, England, on June 8, 1955."
+      }
+    ]
+  },
+  {
+    "qid": "hp92",
+    "difficulty": "hard",
+    "question": "What is the primary language spoken in the country where the Battle of Waterloo took place?",
+    "gold_answer": "Dutch, French, and German",
+    "context": [
+      {
+        "title": "Battle of Waterloo",
+        "text": "The Battle of Waterloo was fought in 1815 in present-day Belgium."
+      },
+      {
+        "title": "Belgium",
+        "text": "Belgium has three official languages: Dutch, French, and German."
+      }
+    ]
+  },
+  {
+    "qid": "hp93",
+    "difficulty": "hard",
+    "question": "Which scientist won a Nobel Prize for her research on radioactivity and was the first person to win two Nobel Prizes?",
+    "gold_answer": "Marie Curie",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was a physicist and chemist who conducted pioneering research on radioactivity."
+      },
+      {
+        "title": "Nobel Prizes of Marie Curie",
+        "text": "Marie Curie was the first woman to win a Nobel Prize and the only person to win Nobel Prizes in two different scientific fields."
+      }
+    ]
+  },
+  {
+    "qid": "hp94",
+    "difficulty": "hard",
+    "question": "What is the name of the desert that covers much of the country where the Giza pyramids are located?",
+    "gold_answer": "Sahara Desert",
+    "context": [
+      {
+        "title": "Giza pyramid complex",
+        "text": "The Giza pyramid complex is located in Egypt, near Cairo."
+      },
+      {
+        "title": "Geography of Egypt",
+        "text": "Most of Egypt is covered by the Sahara Desert, the largest hot desert in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp95",
+    "difficulty": "hard",
+    "question": "Which movement was led by the man who wrote the 'I Have a Dream' speech?",
+    "gold_answer": "Civil Rights Movement",
+    "context": [
+      {
+        "title": "I Have a Dream",
+        "text": "The 'I Have a Dream' speech was delivered by Martin Luther King Jr. in 1963."
+      },
+      {
+        "title": "Martin Luther King Jr.",
+        "text": "Martin Luther King Jr. was a prominent leader in the American Civil Rights Movement."
+      }
+    ]
+  },
+  {
+    "qid": "hp96",
+    "difficulty": "hard",
+    "question": "What is the chemical symbol for the element that makes up the majority of the Sun's mass?",
+    "gold_answer": "H",
+    "context": [
+      {
+        "title": "The Sun",
+        "text": "The Sun's mass is composed of approximately 73% hydrogen."
+      },
+      {
+        "title": "Hydrogen",
+        "text": "Hydrogen is the chemical element with the symbol H and atomic number 1."
+      }
+    ]
+  },
+  {
+    "qid": "hp97",
+    "difficulty": "hard",
+    "question": "Which city hosted the first modern Olympic Games in 1896?",
+    "gold_answer": "Athens",
+    "context": [
+      {
+        "title": "1896 Summer Olympics",
+        "text": "The 1896 Summer Olympics were the first international Olympic Games held in modern history."
+      },
+      {
+        "title": "Host of 1896 Olympics",
+        "text": "The 1896 Olympic Games took place in Athens, Greece."
+      }
+    ]
+  },
+  {
+    "qid": "hp98",
+    "difficulty": "hard",
+    "question": "Which organ in the human body is affected by the disease known as cirrhosis?",
+    "gold_answer": "Liver",
+    "context": [
+      {
+        "title": "Cirrhosis",
+        "text": "Cirrhosis is a condition in which the liver does not function properly due to long-term damage."
+      },
+      {
+        "title": "Liver",
+        "text": "The liver is a vital organ found in vertebrates which detoxifies various metabolites."
+      }
+    ]
+  },
+  {
+    "qid": "hp99",
+    "difficulty": "hard",
+    "question": "The play 'Hamlet' was written by an author who lived during which English historical era?",
+    "gold_answer": "Elizabethan era",
+    "context": [
+      {
+        "title": "Hamlet",
+        "text": "The Tragedy of Hamlet, Prince of Denmark, was written by William Shakespeare."
+      },
+      {
+        "title": "William Shakespeare",
+        "text": "William Shakespeare was an English playwright who lived during the Elizabethan and Jacobean eras."
+      }
+    ]
+  },
+  {
+    "qid": "hp100",
+    "difficulty": "hard",
+    "question": "What is the name of the strait that separates Asia and North America?",
+    "gold_answer": "Bering Strait",
+    "context": [
+      {
+        "title": "Bering Strait",
+        "text": "The Bering Strait is a strait of the Pacific, which borders the Arctic to the north."
+      },
+      {
+        "title": "Geography of the Bering Strait",
+        "text": "The Bering Strait separates the Russian Far East (Asia) from Alaska (North America)."
+      }
+    ]
+  }
+]
